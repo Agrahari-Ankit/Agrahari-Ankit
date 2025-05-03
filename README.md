@@ -33,10 +33,28 @@
 ### 📌 Pinned Projects
 Here are some of my best works:
 
-- 🔒 Laravel-based **Authentication & Role Management System**
-- 📚 **Online Book Store** with cart, checkout, PDF invoice
-- 💬 **Real-Time Chat App** using Laravel WebSockets (WIP)
-- ✈️ **Flight Pricing Logic System** with dynamic rules (Node.js)
+- 🔒 **Laravel Authentication & Role Management System**  
+  A clean admin-based system with login, registration, password reset, role & permission management.
+
+- 📚 **Online Book Store**  
+  Includes product listing, cart system, checkout, PDF invoice generation, and admin dashboard.
+
+- 💬 **Real-Time Chat App** using Laravel WebSockets (WIP)  
+  A scalable messaging system using Laravel WebSockets and Pusher with real-time updates.
+
+- 🧾 **CRM (Customer Relationship Management) System**  
+  A Laravel-powered CRM with client management, leads, tasks, notifications, and activity tracking.
+
+- 🛒 **E-commerce Platform**  
+  Built with Laravel: user auth, product catalog, cart, checkout with payment gateway, and admin panel.
+
+- ✈️ **Flight API System (Node.js)**  
+  Custom pricing rules engine with class-based, airline-specific, and date-based discount structures.
+
+- 🧳 **Travel Agency Management System**  
+  Laravel project to manage packages, bookings, users, and enquiries with automated email notifications.
+
+
 
 ---
 
