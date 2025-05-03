@@ -11,10 +11,9 @@
 
 - 💼 I'm currently working as a **Laravel Developer**
 - 👨‍💻 I love building clean APIs, backend systems, and admin dashboards
-- 🌱 Currently learning: **Golang, System Design, DevOps, and Laravel WebSockets**
+- 🌱 Currently learning: **Laravel, System Design, DevOps, and Laravel WebSockets**
 - 🧠 Interested in: **Scalable architecture, real-time apps, clean code**
-- 📫 Reach me at: **your.email@example.com**
-- 🛍️ Recently launched: A **Shoe Shop Business** (offline)
+- 📫 Reach me at: **ankit.jan2000@gmail.com**
 - ⚡ Fun fact: I enjoy learning new tech by building real projects
 
 ---
@@ -52,6 +51,6 @@ Here are some of my best works:
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-2aa09b248/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:ankit.jan2000@gmail.com)
 
